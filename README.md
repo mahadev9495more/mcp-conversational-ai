@@ -1,4 +1,4 @@
-# Conversational AI Assignment: MCP Server & Gradio Frontend
+## Conversational AI Assignment: MCP Server & Gradio Frontend
 
 A modular Conversational AI assignment solution with a FastAPI backend (supporting Google Gemini, OpenAI, Anthropic, etc.) and a modern Gradio chat frontend with real-time streaming.
 
